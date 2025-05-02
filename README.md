@@ -1,6 +1,5 @@
 # 'The Daily Bite'
-[Link to live site here- 'this appears as lint to click']
-( https://'yourlivelink.com')
+http://localhost:8080/index.html
 ## Introduction
 Foe this assignment, I decided to do my website based on cooking. It is a place where you can get recipes from different levels and also submit your own recipes via a form so that others can use it as well. 
 ## User Experience (UX)
